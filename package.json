@@ -1,0 +1,21 @@
+{
+  "name": "@anio-node-foundation/calc-hash-str",
+  "version": "1.0.0",
+  "description": "Calculate the hash of a string.",
+  "main": "./dist/package.mjs",
+  "author": "Anio Software <info@anio.software>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anio-node-foundation/calc-hash-str.git"
+  },
+  "devDependencies": {
+    "@anio-software/npm-package-bundler": "^1.0.0"
+  },
+  "scripts": {
+    "prepare": "./node_modules/.bin/npm-package-bundler ."
+  },
+  "files": [
+    "./dist/package.mjs"
+  ]
+}
