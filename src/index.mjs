@@ -1,5 +1,4 @@
 import crypto from "node:crypto"
-import fs from "node:fs"
 
 export default function(str, algo = "sha1") {
 	return new Promise((resolve) => {
