@@ -1,6 +1,6 @@
 {
   "name": "@anio-node-foundation/calc-hash-str",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Calculate the hash of a string.",
   "main": "./build/package.mjs",
   "author": "Anio Software <info@anio.software>",
